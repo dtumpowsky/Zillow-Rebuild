@@ -11,13 +11,41 @@
   padding-left: 110px;
   font-family: Gotham,gotham,Verdana,sans-serif;
   box-shadow: 5px #888;
+  max-height: 48px;
 }
 
 #zillow-tab {
   background-color: #1e1d1d; opacity: .8; filter: alpha(opacity=50);
+  width: 155px;
+  border-width: 1px !important;
+  font-family: Gotham,gotham,Verdana,sans-serif;
+  border: solid rgba(255,255,255,.75);
+  height: 50px;
+  padding-top: 12px;
+  font-size: 18px;
 }
 
 .carousel-caption {
   position: absolute;
-  top: 255px
+  top: 255px;
+  font-weight: 300;
+}
+
+#list-your-rental {
+  color: #0074e4;
+}
+
+#my-zillow {
+  font-size: 13px;
+}
+
+#question-mark {
+  padding-left: 10px !important;
+  padding-top: 10px !important;
+  color: #666;
+  font-size: 16px;
+}
+
+#padding-nav {
+  padding-left: 9px;
 }
