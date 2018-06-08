@@ -5,3 +5,17 @@
   width: 100px;
   height: 100px;
 }
+
+#nav-bar-skinny {
+  font-size: 15px !important;
+  padding-left: 110px;
+  font-family: Gotham,gotham,Verdana,sans-serif;
+  box-shadow: 5px #888;
+}
+
+#content-box {
+  width: fill;
+  height: fill;
+
+  background-image: url("https://videos.zillowstatic.com/homepage/video_sell_20170503_1800b_q.jpg");
+}
