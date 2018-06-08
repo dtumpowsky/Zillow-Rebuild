@@ -9,16 +9,17 @@
 #nav-bar-skinny {
   font-size: 15px !important;
   padding-left: 110px;
-  font-family: Gotham,gotham,Verdana,sans-serif;
+  font-family: sans-serif;
   box-shadow: 5px #888;
   max-height: 48px;
 }
 
 #zillow-tab {
+  color: #FFFFFF 1px !important;
   background-color: #1e1d1d; opacity: .8; filter: alpha(opacity=50);
   width: 155px;
   border-width: 1px !important;
-  font-family: Gotham,gotham,Verdana,sans-serif;
+  font-family: sans-serif;
   border: solid rgba(255,255,255,.75);
   height: 50px;
   padding-top: 12px;
@@ -48,4 +49,11 @@
 
 #padding-nav {
   padding-left: 9px;
+}
+
+#tab-header {
+  font-size: 50px;
+  font-weight: 400 !important;
+  color: #FFFFFF;
+  font-family: sans-serif;
 }
