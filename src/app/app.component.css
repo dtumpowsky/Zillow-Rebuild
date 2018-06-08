@@ -28,7 +28,7 @@
 
 .carousel-caption {
   position: absolute;
-  top: 255px;
+  top: 100px;
   font-weight: 300;
 }
 
@@ -52,8 +52,23 @@
 }
 
 #tab-header {
+
   font-size: 50px;
   font-weight: 400 !important;
   color: #FFFFFF;
   font-family: sans-serif;
+  padding-bottom: 20px;
+}
+
+#search-box {
+  padding-top: 20px;
+  max-width: 620px;
+  font-family: sans-serif;
+  height: 80px;
+}
+
+#search-button {
+  color: #FFFFFF;
+  background-color: #0074e4;
+  height: 60px;
 }
