@@ -12,3 +12,7 @@
   font-family: Gotham,gotham,Verdana,sans-serif;
   box-shadow: 5px #888;
 }
+
+#zillow-tab {
+  background-color: #1e1d1d; opacity: .8; filter: alpha(opacity=50);
+}
