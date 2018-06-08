@@ -16,3 +16,8 @@
 #zillow-tab {
   background-color: #1e1d1d; opacity: .8; filter: alpha(opacity=50);
 }
+
+.carousel-caption {
+  position: absolute;
+  top: 255px
+}
