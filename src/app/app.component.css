@@ -24,6 +24,7 @@
   height: 50px;
   padding-top: 12px;
   font-size: 18px;
+  font-weight: 400;
 }
 
 .carousel-caption {
@@ -71,4 +72,6 @@
   color: #FFFFFF;
   background-color: #0074e4;
   height: 60px;
+  border: solid #FFFFFF;
+  border-width: 8px;
 }
