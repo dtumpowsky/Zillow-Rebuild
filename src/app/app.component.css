@@ -67,12 +67,29 @@
   max-width: 620px;
   font-family: sans-serif;
   height: 80px;
+  width: 100%;
+  border-radius:
 }
 
 #search-button {
-  color: #FFFFFF;
-  background-color: #0074e4;
+  color: #0074e4;
   height: 60px;
-  border: solid #FFFFFF;
   border-width: 8px;
+  position: absolute;
+  max-width: inherit;
+  max-height: inherit;
+  padding-left: 500px;
+  padding-top: 8px;
+}
+
+#button-background {
+  background-color: #0074e4;
+  color: #FFFFFF;
+  height: 45px;
+  width: 102px;
+
+}
+
+#interior-search-box {
+  border-radius: 5px;
 }
