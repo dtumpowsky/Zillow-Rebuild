@@ -73,7 +73,7 @@
 
 #search-button {
   color: #0074e4;
-  height: 60px;
+
   border-width: 8px;
   position: absolute;
   max-width: inherit;
@@ -87,7 +87,6 @@
   color: #FFFFFF;
   height: 45px;
   width: 102px;
-
 }
 
 #interior-search-box {
@@ -104,21 +103,29 @@
   width: 100%;
   position: absolute;
   bottom: 0;
-  height: 60px;
+  min-height: 60px;
   text-align: left;
   width: 100%;
   left: 0;
   padding-right: 100px !important;
-  /* padding-top: 500px; */
   margin-bottom: 0;
   padding-left: 1rem;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 #selling-home-tagline1 {
   font-weight: 700;
+  padding-left: 15px;
 }
 
-#selling-home-tagline-align {
-  padding-top: 10px;
-  padding-bottom: 10px;
+#selling-home-button {
+  position: absolute;
+  background-color: #0074e4;
+  right: 0;
+  margin-right: 2em;
+  color: #FFFFFF;
+  width: 130px;
+  float: right !important;
+  font-family: sans-serif;
 }
