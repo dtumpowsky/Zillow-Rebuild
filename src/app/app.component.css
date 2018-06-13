@@ -74,17 +74,19 @@
   font-family: sans-serif;
   height: 80px;
   width: 100%;
+  position: relative;
 }
 
 #search-button {
   color: #0074e4;
-
   border-width: 8px;
   position: absolute;
   max-width: inherit;
   max-height: inherit;
-  padding-left: 500px;
+  right: 0;
+  padding-right: 1em;
   padding-top: 8px;
+  z-index: 99 !important;
 }
 
 #button-background {
