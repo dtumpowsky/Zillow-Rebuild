@@ -2,6 +2,32 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
 
+### Version 1.0
+#### By: David Tumpowsky
+#### Date: 08 June 2018
+
+## Description
+
+Rebuild of the website for online real estate database company Zillow.
+
+## Setup/Installation Requirements
+* Angular2
+* Node
+* JavaScript
+* TypeScript
+* CSS
+* Bootstrap
+
+## Current Features
+* CSS styling of Zillow
+
+## Future Features
+* Navigate between "Sell", "Buy", "Rent", "Zestimate", changing the background picture
+* Communicate with Zillow API
+* Display listed homes using Zillow api
+* Search box will return homes matching the inputted parameters
+* Further CSS styling to accurately portray Zillow website
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
@@ -24,4 +50,22 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 ## Further help
 
+_If you run into a problem, contact tumpowskydavid@gmail.com_
+
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+### License
+* This program is free software: you can redistribute it and/or modify
+* it under the terms of the GNU General Public License as published by
+* the Free Software Foundation, either version 3 of the License, or
+* (at your option) any later version.
+*
+* This program is distributed in the hope that it will be useful,
+* but WITHOUT ANY WARRANTY; without even the implied warranty of
+* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+* GNU General Public License for more details.
+*
+* You should have received a copy of the GNU General Public License
+* along with this program.  If not, see <http://www.gnu.org/licenses/>.
+* Copyright (c) 2018
+####
