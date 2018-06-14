@@ -153,19 +153,29 @@
 
 .card-body{
   background-color: #eee;
+  padding-top: 30px;
 }
 
 .footer-header{
   color: #444;
   font-size: 14px;
-  font-weight: 700;
+  font-weight: 600;
   padding-left: 10px;
   padding-bottom: 10px;
 }
 
-.hidden-list {
+.hidden-real-estate {
   display: none;
   margin-left: 10px !important;
+}
+.hidden-rentals {
+  display: none;
+}
+.hidden-mortgage {
+  display: none;
+}
+.hidden-browse {
+  display: none;
 }
 
 .sub-header ul {
