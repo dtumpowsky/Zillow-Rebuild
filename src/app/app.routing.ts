@@ -13,6 +13,14 @@ const appRoutes: Routes = [
   {
     path: 'buy',
     component: BuyComponent
+  },
+  {
+    path: 'rent',
+    component: RentComponent
+  },
+  {
+    path: 'zestimate',
+    component: ZestimateComponent
   }
  ];
 
