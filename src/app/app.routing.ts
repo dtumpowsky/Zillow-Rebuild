@@ -10,10 +10,10 @@ const appRoutes: Routes = [
      path: '',
      component: SellComponent
    },
-  // {
-  //   path: 'about',
-  //   component: AboutComponent
-  // }
+  {
+    path: 'buy',
+    component: BuyComponent
+  }
  ];
 
 export const routing: ModuleWithProviders = RouterModule.forRoot(appRoutes);

@@ -7,6 +7,8 @@ import { SellComponent } from './sell/sell.component';
 import { BuyComponent } from './buy/buy.component';
 import { ZestimateComponent } from './zestimate/zestimate.component';
 import { RentComponent } from './rent/rent.component';
+import { zillowAPI } from './api-keys';
+
 
 
 @NgModule({
