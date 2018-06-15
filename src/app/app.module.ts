@@ -1,7 +1,7 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { FormsModule }  from '@angular/forms';
-
+import { routing } from './app.routing';
 import { AppComponent } from './app.component';
 import { SellComponent } from './sell/sell.component';
 import { BuyComponent } from './buy/buy.component';
@@ -19,7 +19,8 @@ import { RentComponent } from './rent/rent.component';
   ],
   imports: [
     BrowserModule,
-    FormsModule
+    FormsModule,
+    routing
   ],
   providers: [],
   bootstrap: [AppComponent]
