@@ -191,3 +191,21 @@
 .line-spacing {
   margin: 10px !important;
 }
+
+#nav-bar-brands {
+  background-color: #000;
+  color: #aaa;
+  padding-left: 15%;
+  padding-right: 15%;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+#footer-nav {
+  padding: 10px;
+}
+
+.break {
+  font-size: 25px;
+  font-weight: 200;
+}
